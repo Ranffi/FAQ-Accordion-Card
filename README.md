@@ -23,6 +23,10 @@ Users should be able to:
 
 ### Links
 
+<<<<<<< HEAD
 - Live Site URL: [Check it out](https://ranffi.github.io/FAQ-Accordion-Card/)
+=======
+- Live Site URL: [Check it out here!](https://ranffi.github.io/FAQ-Accordion-Card/)
+>>>>>>> 4ff02355f84411a39d314196c3f1f54b1004f9e1
 
 
